@@ -1,22 +1,20 @@
----
-
 # Custom Conditional GAN on MNIST
 
 This project implements a **Conditional Generative Adversarial Network (cGAN)** trained on the **MNIST dataset** of handwritten digits using **PyTorch Lightning**. Unlike standard GANs, a cGAN learns to generate images conditioned on class labels, allowing controlled generation of digits (0–9).
 
 ## 🚀 Features
 
-* **Custom GAN architecture** built from scratch in PyTorch.
-* **Conditional generation** – generate specific digits by providing labels.
-* **PyTorch Lightning integration** for clean training loops and GPU support.
-* **MNIST dataset preprocessing** with normalization for stable GAN training.
-* **Visualization of results** – sample images generated during training.
+- **Custom GAN architecture** built from scratch in PyTorch.
+- **Conditional generation** – generate specific digits by providing labels.
+- **PyTorch Lightning integration** for clean training loops and GPU support.
+- **MNIST dataset preprocessing** with normalization for stable GAN training.
+- **Visualization of results** – sample images generated during training.
 
 ## 📂 Project Structure
 
-* `Custom_GAN_MNIST.ipynb` – main notebook containing the full implementation, training, and results.
-* **Generator**: Accepts random noise + digit labels and outputs fake MNIST images.
-* **Discriminator**: Learns to distinguish real MNIST digits from generated ones.
+- `Custom_GAN_MNIST.ipynb` – main notebook containing the full implementation, training, and results.
+- **Generator**: Accepts random noise + digit labels and outputs fake MNIST images.
+- **Discriminator**: Learns to distinguish real MNIST digits from generated ones.
 
 ## 🛠️ Installation
 
@@ -48,13 +46,7 @@ Training will display loss curves and generate sample images as the model improv
 
 After training, the generator can produce realistic handwritten digits for any given label. Example:
 
-* Input: noise + label = "7"
-* Output: generated digit that looks like a handwritten **7**.
+- Input: noise + label = "7"
+- Output: generated digit that looks like a handwritten **7**.
 
-## 🔮 Future Work
 
-* Extend to more complex datasets (CIFAR-10, Fashion-MNIST).
-* Experiment with deeper architectures (DCGAN, WGAN).
-* Add evaluation metrics like Inception Score or FID.
-
----
