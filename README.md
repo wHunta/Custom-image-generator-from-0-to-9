@@ -36,10 +36,8 @@ Or install dependencies directly inside Jupyter:
 
 # The GAN is trained using the MNIST dataset:
 
-## Run notebook cells in Custom_GAN_MNIST.ipynb 
-
-
-Training will display loss curves and generate sample images as the model improves.
+* Run notebook cells in Custom_GAN_MNIST.ipynb 
+* Training will display loss curves and generate sample images as the model improves.
 
 ## 🎨 Results
 
