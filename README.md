@@ -43,7 +43,13 @@ Or install dependencies directly inside Jupyter:
 
 After training, the generator can produce realistic handwritten digits for any given label. Example:
 
-- Input: noise + label = "7"
-- Output: generated digit that looks like a handwritten **7**.
+- Input: noise + label = "9"
+- Output: generated digit that looks like a handwritten **9**.
 
+Generic Generation Example:
 
+<img width="1182" height="166" alt="image" src="https://github.com/user-attachments/assets/3b994f87-eefe-4033-859c-ebf14c4da708" />
+
+Specific Image Generation Example:
+
+<img alt="image" src="https://github.com/user-attachments/assets/587438b4-dce1-4326-8eb4-99d39c1f8849"/>
